@@ -1,0 +1,15 @@
+@font-face { font-family: "ajcFont"; font-weight:500; src:url('fonts/akk-reg.eot');
+  src:url('fonts/akk-reg.woff2') format('woff2'),
+  url('fonts/akk-reg.woff') format('woff'),
+  url('fonts/akk-reg.ttf') format('truetype');
+}
+@font-face { font-family: "ajcFont"; font-weight:300; src:url('fonts/akk-light.eot');
+  src:url('fonts/akk-light.woff2') format('woff2'),
+  url('fonts/akk-light.woff') format('woff'),
+  url('fonts/akk-light.ttf') format('truetype');
+}
+@font-face { font-family: "ajcFont"; font-weight:700; src:url('fonts/akk-bold.eot');
+  src:url('fonts/akk-bold.woff2') format('woff2'),
+  url('fonts/akk-bold.woff') format('woff'),
+  url('fonts/akk-bold.ttf') format('truetype');
+}
